@@ -45,7 +45,7 @@ const newspapers = [
     {
         name: 'cryptonews',
         address: 'https://cryptonews.com',
-        base: 'https://cryptonews.com/'
+        base: 'https://cryptonews.com'
     },
     {
         name: 'ndtv',
